@@ -1,0 +1,41 @@
+.container{
+    width: 1024px;
+    margin: auto;
+    
+
+}
+header{
+    /* background-color: blue; */
+    height: 118px;
+    text-align: center;
+    
+}
+
+nav{
+    background-color: rgba(0, 0, 0, 0.335);
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+   
+    
+}
+main{
+    /* background-color: orange; */
+    height: 400px;
+    text-align: center;
+    padding-top: 18px;
+    padding-left: 240px;
+    padding-right: 240px;
+    
+    
+}
+
+footer{
+    
+    background-color: rgba(0, 0, 0, 0.418);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+ 
+    
+}
